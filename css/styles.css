@@ -3,5 +3,9 @@ h1 {
   text-align: center;
 }
 body {
-  background-color: skyblue;
+  background-color: peachpuff;
+}
+h2 {
+  font-style: italic;
+  color: teal;
 }
