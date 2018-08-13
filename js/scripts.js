@@ -1,3 +1,4 @@
+function triangleTracker(){
 var a= parseInt(prompt("enter the length"));
 var b= parseInt(prompt("enter the height"));
 var c=parseInt(prompt("enter the hypotenuse"));
@@ -10,4 +11,5 @@ alert("This is an isosceles triangle");
 alert("This is not a triangle")
 } else {
 alert ("scalene")
+}
 }
